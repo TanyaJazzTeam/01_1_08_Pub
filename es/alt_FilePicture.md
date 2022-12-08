@@ -16,7 +16,7 @@ columna 3 es | algún texto prolijo | **$1600**
 columna 2 es | centrado | $12
 rayas de cebra | están limpios | ~~$1~~
 
-Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispositivos móviles, con almacenamiento fuera de línea y potenciado por AngularJS.
+Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispositivos móviles, con almacenamiento fuera de línea y potenciado por AngularJS. fflk
 
 - Escriba algo de Markdown a la izquierda
 - Ver HTML a la derecha
