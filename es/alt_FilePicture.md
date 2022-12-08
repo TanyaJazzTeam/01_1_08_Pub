@@ -16,13 +16,13 @@ columna 3 es | algún texto prolijo | **$1600**
 columna 2 es | centrado | $12
 rayas de cebra | están limpios | ~~$1~~
 
-Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispositivos móviles, con almacenamiento fuera de línea y potenciado por AngularJS.
+Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispositivos móviles, con almacenamiento fuera de línea y potenciado por AngularJS. fflk
 
 - Escriba algo de Markdown a la izquierda
 - Ver HTML a la derecha
-- magia
+- Magic f
 
-# verdadero
+# true fl
 
 - Importe un archivo HTML y observe cómo se convierte mágicamente en Markdown
 - Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
@@ -39,7 +39,7 @@ Markdown es un lenguaje de marcado ligero basado en las convenciones de formato 
 
 > El objetivo principal del diseño de la sintaxis de formato de Markdown es hacer que sea lo más legible posible. La idea es que un documento con formato de Markdown se pueda publicar tal cual, como texto sin formato, sin que parezca que ha sido marcado con etiquetas o instrucciones de formato.
 
-¡Este texto que ves aquí en *realidad* está escrito en Markdown! Para tener una idea de la sintaxis de Markdown, escriba un texto en la ventana de la izquierda y observe los resultados en la derecha.
+This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right. fds
 
 ### falso
 
